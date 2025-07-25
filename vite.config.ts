@@ -23,5 +23,9 @@ import { componentTagger } from "lovable-tagger";
 
 export default defineConfig({
   plugins: [react()],
-  base: './', // optional, for relative paths if needed
+  resolve: {
+    alias: {
+      '@': path.resolve(__dirname, './src'),
+    },
+  },
 })
