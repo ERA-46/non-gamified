@@ -321,7 +321,7 @@ const Configuration = () => {
                 <div className="bg-yellow-100 border border-yellow-300 text-yellow-800 rounded-lg p-4 mb-4">
                   📢 We’d love your feedback! Please take a moment to fill out our short survey 👉{" "}
                   <a
-                    href="https://forms.gle/Xr3TmDtoyqLGSTrc7"
+                    href="https://forms.gle/RyPJqWN4twgoQmgc9"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="underline text-blue-700 hover:text-blue-900 font-medium"
